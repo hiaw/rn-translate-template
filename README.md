@@ -16,7 +16,7 @@ First install i18n into your react native project
 Then clone this project to your within your project, removing the git repo and example afterwards.
 
     git clone --depth 1 https://github.com/hiaw/rn-translate-template translations
-    rm -rf translations/.git example
+    rm -rf translations/.git translations/example
 
 Then require the translations.js file within your main app js file
 
