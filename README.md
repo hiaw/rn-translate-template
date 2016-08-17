@@ -28,6 +28,6 @@ To use the translation in app.
 
     render() {
     ...
-    { I18n.t('rating') }
+    { I18n.t('welcome') }
     ...
     }
