@@ -26,4 +26,8 @@ To use the translation in app.
 
     import I18n from 'react-native-i18n';
 
+    render() {
+    ...
     { I18n.t('rating') }
+    ...
+    }
