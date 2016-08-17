@@ -1,93 +1,98 @@
-Android:
---------------
-Afrikaans               af
-Amharic                 am
-Bulgarian	              bg
-Catalan	                ca
-Chinese (Hong Kong)	    zh-HK
-Chinese (PRC)	          zh-CN
-Chinese (Taiwan)	      zh-TW
-Croatian                hr
-Czech                   cs
-Danish                  da
-Dutch                   nl
-English (AU)            en-AU
-English (UK)            en-GB
-English (US)            en-US
-Estonian                et
-Filipino                fil
-Finnish                 fi
-French (Canada)         fr-CA
-French (France)         fr-FR
-German                  de
-Greek                   el
-Hindi                   hi
-Hungarian               hu
-Indonesian              id / in
-Italian	                it
-Japanese                ja
-Korean                  ko
-Latvian                 lv
-Lithuanian              lt
-Malay                   ms
-Norwegian               no
-Polish                  pl
-Portuguese (Brazil)     pt-BR
-Portuguese (Portugal)   pt-PT
-Romanian	              ro
-Russian	                ru
-Serbian	                sr
-Slovak	                sk
-Slovenian	              sl
-Spanish (Latin America)	es-419
-Spanish (Spain)	        es-ES
-Swahili	                sw
-Swedish	                sv
-Thai	                  th
-Turkish	                tr
-Ukrainian	              uk
-Zulu	                  zu
+Android:                                iOS:
+--------------                          -------------
+Afrikaans               af              
+Amharic                 am              
+                                        Arabic                  ar
+Bulgarian               bg              
+Catalan                 ca              Catalan                 ca
+Chinese (Hong Kong)     zh-HK           Chinese (Hong Kong)     zh-HK
+Chinese (PRC)           zh-CN           Chinese (Simplified)    zh-Hans
+Chinese (Taiwan)        zh-TW           Chinese (Traditional)   zh-Hant
+Croatian                hr              Croatian                hr
+Czech                   cs              Czech                   cs
+Danish                  da              Danish                  da
+Dutch                   nl              Dutch                   nl
+English (US)            en-US           English                 en
+English (AU)            en-AU           English (Australian)    en-AU
+English (UK)            en-GB           English (British)       en-GB
+                                        English (Canadian)      en-CA
+                                        English (Indian)        en-IN
+Estonian                et              
+Filipino                fil             
+Finnish                 fi              Finnish                 fi
+French (Canada)         fr-CA           French (Canadian)       fr-CA
+French (France)         fr-FR           French                  fr
+German                  de              German                  de
+Greek                   el              Greek                   el
+                                        Hebrew                  he
+Hindi                   hi              Hindi                   hi
+Hungarian               hu              Hungarian               hu
+Indonesian              id / in         Indonesian              id
+Italian                 it              Italian                 it
+Japanese                ja              Japanese                ja
+Korean                  ko              Korean                  ko
+Latvian                 lv              Malay                   ms
+Lithuanian              lt              
+Malay                   ms              
+Norwegian               no              
+                                        Norwegian (Bokmal)      nb
+Polish                  pl              Polish                  pl
+Portuguese (Brazil)     pt-BR           Portuguese (Brazil)     pt-BR
+Portuguese (Portugal)   pt-PT           Portuguese              pt
+Romanian                ro              Romanian                ro
+Russian                 ru              Russian                 ru
+Serbian                 sr              
+Slovak                  sk              Slovak                  sk
+Slovenian               sl              
+Spanish (Latin America) es-419          Spanish (Mexico)        es-M
+Spanish (Spain)         es-ES           Spanish                 es
+Swahili                 sw              
+Swedish                 sv              Swedish                 sv
+Thai                    th              Thai                    th
+Turkish                 tr              Turkish                 tr
+Ukrainian               uk              Ukrainian               uk
+Zulu                    zu              Vietnamese              vi
 
-iOS:
--------------
-English                 en
-English (British)	      en-GB
-English (Australian)	  en-AU
-English (Canadian)	    en-CA
-English (Indian)	      en-IN
-French	                fr
-French (Canadian)	      fr-CA
-Spanish	                es
-Spanish (Mexico)	      es-M	X
-Portuguese	            pt
-Portuguese (Brazil)	    pt-BR
-Italian	                it
-German	                de
-Chinese (Simplified)    zh-Hans
-Chinese (Traditional)	  zh-Hant
-Chinese (Hong Kong)	    zh-HK
-Dutch	                  nl
-Japanese	              ja
-Korean	                ko
-Vietnamese	            vi
-Russian	                ru
-Swedish	                sv
-Danish	                da
-Finnish	                fi
-Norwegian (Bokmal)	    nb
-Turkish	                tr
-Greek	                  el
-Indonesian	            id
-Malay	                  ms
-Thai	                  th
-Hindi	                  hi
-Hungarian	              hu
-Polish	                pl
-Czech	                  cs
-Slovak	                sk
-Ukrainian	              uk
-Croatian	              hr
-Catalan	                ca
-Romanian	              ro
-Hebrew	                he
-Arabic	                ar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
