@@ -1,0 +1,93 @@
+Android:
+--------------
+Afrikaans               af
+Amharic                 am
+Bulgarian	              bg
+Catalan	                ca
+Chinese (Hong Kong)	    zh-HK
+Chinese (PRC)	          zh-CN
+Chinese (Taiwan)	      zh-TW
+Croatian                hr
+Czech                   cs
+Danish                  da
+Dutch                   nl
+English (AU)            en-AU
+English (UK)            en-GB
+English (US)            en-US
+Estonian                et
+Filipino                fil
+Finnish                 fi
+French (Canada)         fr-CA
+French (France)         fr-FR
+German                  de
+Greek                   el
+Hindi                   hi
+Hungarian               hu
+Indonesian              id / in
+Italian	                it
+Japanese                ja
+Korean                  ko
+Latvian                 lv
+Lithuanian              lt
+Malay                   ms
+Norwegian               no
+Polish                  pl
+Portuguese (Brazil)     pt-BR
+Portuguese (Portugal)   pt-PT
+Romanian	              ro
+Russian	                ru
+Serbian	                sr
+Slovak	                sk
+Slovenian	              sl
+Spanish (Latin America)	es-419
+Spanish (Spain)	        es-ES
+Swahili	                sw
+Swedish	                sv
+Thai	                  th
+Turkish	                tr
+Ukrainian	              uk
+Zulu	                  zu
+
+iOS:
+-------------
+English                 en
+English (British)	      en-GB
+English (Australian)	  en-AU
+English (Canadian)	    en-CA
+English (Indian)	      en-IN
+French	                fr
+French (Canadian)	      fr-CA
+Spanish	                es
+Spanish (Mexico)	      es-M	X
+Portuguese	            pt
+Portuguese (Brazil)	    pt-BR
+Italian	                it
+German	                de
+Chinese (Simplified)    zh-Hans
+Chinese (Traditional)	  zh-Hant
+Chinese (Hong Kong)	    zh-HK
+Dutch	                  nl
+Japanese	              ja
+Korean	                ko
+Vietnamese	            vi
+Russian	                ru
+Swedish	                sv
+Danish	                da
+Finnish	                fi
+Norwegian (Bokmal)	    nb
+Turkish	                tr
+Greek	                  el
+Indonesian	            id
+Malay	                  ms
+Thai	                  th
+Hindi	                  hi
+Hungarian	              hu
+Polish	                pl
+Czech	                  cs
+Slovak	                sk
+Ukrainian	              uk
+Croatian	              hr
+Catalan	                ca
+Romanian	              ro
+Hebrew	                he
+Arabic	                ar
