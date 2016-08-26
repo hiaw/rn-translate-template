@@ -11,18 +11,23 @@ English translation is set as default fallback in case some translations are not
 First install i18n into your react native project
 
     npm install --save react-native-i18n
+    react-native link
 
-Then clone this project to your within your project, removing the git repo afterwards.
+Then clone this project to your within your project, removing the git repo and example afterwards.
 
-    git clone --depth 1 https://github.com/hiaw/rn-translate-template translations
-    rm -rf translations/.git
+    git clone --depth 1 https://github.com/hiaw/rn-translate-template I18n
+    rm -rf I18n/.git I18n/example
 
 Then require the translations.js file within your main app js file
 
-    require('./translations/_translation.js');
+    require('./I18n/I18n.js');
 
 To use the translation in app.
 
     import I18n from 'react-native-i18n';
 
-    I18n.t('rating')
+    render() {
+    ...
+    { I18n.t('welcome') }
+    ...
+    }
