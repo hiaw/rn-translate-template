@@ -18,7 +18,7 @@ Then clone this project to your within your project, removing the git repo and e
     git clone --depth 1 https://github.com/hiaw/rn-translate-template I18n
     rm -rf I18n/.git I18n/example
 
-Then require the translations.js file within your main app js file
+Then require the `I18n.js` file within your main `App.js` file
 
     require('./I18n/I18n.js');
 
